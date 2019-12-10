@@ -9,8 +9,8 @@ import numpy as np
 import random
 import matplotlib.pyplot as plt
 
-rows = 2
-columns = 2
+rows = 4
+columns = 4
 height = 800
 width = 800
 
@@ -44,7 +44,7 @@ def change_position(puzzle_divided, positions):
 
 
 def main():
-    image = plt.imread("/home/tkhacker/git/py-garcia-jose-i/Tarea2/image.png")
+    image = plt.imread("/home/tkhacker/git/py-garcia-jose-i/deber-rompecabezas/image.png")
     puzzle = reassemble(shuffle(division(image)))
     plt.imshow(puzzle)
     plt.show(block = False)

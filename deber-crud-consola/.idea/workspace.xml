@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6c5bdc1-31b3-4b5e-8488-676f92ea21f1" name="Default Changelist" comment="" />
+    <list default="true" id="c6c5bdc1-31b3-4b5e-8488-676f92ea21f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02 - Universal functions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Errores.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03 - Slicing y Dicing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Funciones.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-clases-funciones.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04 - Reshaping.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-Archivos.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-imagenes.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MarkDown.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pandas/A_introduccion" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pandas/A_introduccion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pandas/B_series.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea/screen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2_/venv/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../deber-rompecabezas/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../deber-rompecabezas/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frases.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numpy/.ipynb_checkpoints/Introducción-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numpy/Introducción.ipynb" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +41,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TJLm5GyidBp1rE1xvCCUVK6RLl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/venv" />
@@ -95,6 +129,17 @@
       <updated>1573173407386</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
