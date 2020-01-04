@@ -82,3 +82,13 @@ hoja_artistas.insert_chart('D3', chart1)
 
 workbook.close()
 writer.save()
+
+######## SQL ########
+with sqlite3.connect("/home/tkhacker/git/py-garcia-jose-i/03-Pandas/data/bdd_artist.db") as conexion:
+    df5.to_sql('py_artistas', conexion)
+    
+# with mysql.connect('mysql://user:password@ip:puerto/nombre?base')
+#    df5.to_sql('py_artistas', conexion)
+
+df.to_json('/home/tkhacker/git/py-garcia-jose-i/03-Pandas/data/artistas.json')
+
