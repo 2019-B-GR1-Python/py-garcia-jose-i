@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        /*  ID
+            # + nombreId
+        */
+        /*  NOMBRE-ETIQUETA
+            nombre-etiqueta
+        */
+        #titulo-uno{
+            background-color: red;
+        }
+
+        body{
+            background-color: tomato;
+        }
+        /* Búsqueda por clases*/
+        .texto-amarillo{
+            color: yellow;
+        }
+        .fondo-verde{
+            background-color: green;
+        }
+
+        /*
+            JERARQUÍA
+            STYLE
+            ID 
+            CLASS
+            MARKUP
+
+            Ultimo style definido > style definido anterior
+        */
+
+        .texto-azul{
+            color: blue;
+        }
+
+        .texto-cafe{
+            color: brown;
+        }
+        
+        /* Etiqueta dentro de otra*/
+
+        body > ul > li > p{
+            background-color: coral;
+            color: darkgrey;
+        }
+
+        li > p.texto-amarillo{
+            color: goldenrod;
+        }
+
+        p.texto-azul.texto-amarillo.texto-cafe.texto-blanco{
+            color: pink;
+        }
+    </style>
+</head>
+<body>
+    <h1
+        id="texto-amarillo">Título
+    </h1>
+    <p id="titulo-uno" 
+        class="fondo-verde" 
+        style="background-color: indigo;">
+        Mi mama
+    </p>
+    <p class="texto-cafe texto-azul texto-amarillo">
+        me mima
+    </p>
+
+    <ul>
+        <li>
+            <p>
+                Muy
+            </p>
+        </li>
+        <li>
+            <p>
+                buenos
+            </p>
+        </li>
+        <li>
+            <p class="texto-amarillo">
+                días
+            </p>
+        </li>
+    </ul>
+
+    <style>
+        .texto-blanco{
+            color: white;
+        }
+    </style>
+
+</body>
+</html>
+
+
+Clases
+
+/*.sf-menu > li > a {
+	background: salmon;
+}*/
+
+/*.navigation > a > li{
+    color: salmon;
+}*/
+
+/*..menu-menu-principal-produccion-container{
+    background: salmon;
+}*/
